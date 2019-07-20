@@ -1,4 +1,4 @@
-class Credentials:
+Credentials:
     '''
     class that generates new credentials 
     '''
