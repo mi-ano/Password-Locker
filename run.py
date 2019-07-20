@@ -53,7 +53,7 @@ def display_credentials():
     method that returns the user list
     '''
     return User.display_users()
-def Miano()::  :  :  
+def Miano():
   print("WELCOME TO PASSWORD LOCKER.")
 def Miano():  
   print("Would you like to continue? (yes/no)")
