@@ -78,9 +78,9 @@ def Miano1():
             print("Press 1 = sign up / Press 2 = log in / Press 3 = exit")
             logorsign = input()
             if logorsign == "1":
-                print("GREAT!!Please enter your preferred username.")
+                print("GREAT!!Please enter your preffered username.")
                 username = input()
-                print("Enter a preferred password.")
+                print("Enter a preffered password.")
                 password1 = getpass.getpass("password:")
                 print("Confirm your password please.")
                 password2 = getpass.getpass("password:")
@@ -153,7 +153,7 @@ def Miano1():
                 exit()
         else:
             print("Are you that stupid.Please press 1")
-            Miano()
+            Miano1()
     elif answer == "no":
         print("Thanks for using our application.we hope to see you again.")
     else:
