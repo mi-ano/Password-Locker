@@ -1,5 +1,7 @@
-#### Password Locker
-This application allows a user to create an account. Login in and save their credentials for other accounts. They can display all accounts credentials at once, search for a specific account or even delete an account. Written in python and  accessed using the terminal. 
+ #### Password Locker
 
-## Author
+## Created By
 Ryan Miano
+
+## Description
+Password locker is a python application run by the terminal that allows a user to store their personal details like the password, username, name and even email.
