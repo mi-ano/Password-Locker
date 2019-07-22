@@ -14,7 +14,8 @@ Password locker is a python application run by the terminal that allows a user t
 | Generate password.              | Select password generate option| New password                           |
 | Exit app.                        | Select exit choice             | App closes                             |
 
-##
+### Technologies Used 
+* Python3.7
 
 ## Setup/Installation Requirements
 * To run the app use this in your terminal ;https://github.com/mi-ano/Password-Locker
