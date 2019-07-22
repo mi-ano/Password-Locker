@@ -5,7 +5,7 @@ class Credentials:
 
     credentials_list = [] 
 
-    def __init__(self,account_name,password):
+    def __Init__(self,account_name,password):
         '''
         init method to create instances of the credentials class
         '''
