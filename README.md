@@ -21,3 +21,7 @@ Password locker is a python application run by the terminal that allows a user t
 * To run the app use this in your terminal ;https://github.com/mi-ano/Password-Locker
 * Fork the data onto your own personal repository
 * Run ./run.py on your terminal
+
+### Contact Information
+You can contact me via Email @ryanmiano68@gmail.com
+
